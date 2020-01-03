@@ -5,6 +5,7 @@
 This application features the ability to simulate the popping of bubble wrap.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704433-ab91eb80-2d97-11ea-9e47-52981cffb964.png)
 
 ## Application Compiling
 
